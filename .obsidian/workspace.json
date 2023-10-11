@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85d475ca44adb3ce",
+            "id": "6885981a93a19f85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Final Year Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd2a14fbd4614c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bernoulli Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82d4c48ec9b7c26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning.md"
+              }
             }
           }
         ]
@@ -138,6 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85d475ca44adb3ce",
-  "lastOpenFiles": []
+  "active": "82d4c48ec9b7c26d",
+  "lastOpenFiles": [
+    "Maximum Likelihood Estimation.md",
+    "Machine Learning.md",
+    "Pasted image 20231011171554.png",
+    "Pasted image 20231011171226.png",
+    "Pasted image 20231011171137.png",
+    "Pasted image 20231011171044.png",
+    "Pasted image 20231011170956.png",
+    "Pasted image 20231011170908.png",
+    "Bernoulli Distribution.md",
+    "Pasted image 20231011165755.png",
+    "Pasted image 20231011165623.png",
+    "Pasted image 20231011165451.png",
+    "Pasted image 20231011165426.png",
+    "Final Year Modules.md",
+    "Stochastic Variable.md",
+    "Bayesian Probability.md",
+    "Definitions.md",
+    "README.md"
+  ]
 }
