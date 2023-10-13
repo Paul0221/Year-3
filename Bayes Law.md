@@ -17,4 +17,6 @@ Conditional probability - probability of a random variable taking on a specific 
 		
 		![[Pasted image 20231013134700.png]] = number of individuals with height ![[Pasted image 20231013134453.png]] 
 		
+		![[Pasted image 20231013134824.png]] = number of individuals with weight ![[Pasted image 20231013134609.png]]
 		
+		What is the joint probability ![[Pasted image 20231013134957.png]] ?
