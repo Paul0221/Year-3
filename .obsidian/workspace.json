@@ -47,12 +47,14 @@
             "id": "9bb1fcf516e231c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayes Law.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayes Law.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayes Law.md"
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -179,8 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd2a14fbd4614c2f",
+  "active": "9bb1fcf516e231c8",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Bayes Law.md",
     "Pasted image 20231013134957.png",
     "Pasted image 20231013134824.png",
     "Pasted image 20231013134700.png",
@@ -188,7 +192,6 @@
     "Pasted image 20231013134453.png",
     "Pasted image 20231013134334.png",
     "Machine Learning.md",
-    "Bayes Law.md",
     "Bayesian Inference.md",
     "Bernoulli Distribution.md",
     "Maximum Likelihood Estimation.md",
@@ -197,7 +200,6 @@
     "Pasted image 20231011171226.png",
     "Pasted image 20231011171137.png",
     "Pasted image 20231011171044.png",
-    "Pasted image 20231011170956.png",
     "Stochastic Variable.md",
     "Bayesian Probability.md",
     "Definitions.md",
