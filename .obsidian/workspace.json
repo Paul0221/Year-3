@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bernoulli Distribution.md",
+                "file": "Bayes Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bb1fcf516e231c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Bayes Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Bayes Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "Bayes Law.md"
               }
             }
           }
@@ -171,22 +179,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d4c48ec9b7c26d",
+  "active": "cd2a14fbd4614c2f",
   "lastOpenFiles": [
-    "Maximum Likelihood Estimation.md",
     "Machine Learning.md",
+    "Bayes Law.md",
+    "Bayesian Inference.md",
+    "Bernoulli Distribution.md",
+    "Maximum Likelihood Estimation.md",
+    "Final Year Modules.md",
     "Pasted image 20231011171554.png",
     "Pasted image 20231011171226.png",
     "Pasted image 20231011171137.png",
     "Pasted image 20231011171044.png",
     "Pasted image 20231011170956.png",
     "Pasted image 20231011170908.png",
-    "Bernoulli Distribution.md",
     "Pasted image 20231011165755.png",
     "Pasted image 20231011165623.png",
     "Pasted image 20231011165451.png",
     "Pasted image 20231011165426.png",
-    "Final Year Modules.md",
     "Stochastic Variable.md",
     "Bayesian Probability.md",
     "Definitions.md",

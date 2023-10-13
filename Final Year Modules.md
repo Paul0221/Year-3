@@ -1,5 +1,6 @@
 
 - [[Distributed Systems]]
+- [[Individual Project]]
 - [[Information Visualisation]]
 - [[Machine Learning]]
 - [[Secure Computing]]
