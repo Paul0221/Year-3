@@ -13,4 +13,8 @@ Conditional probability - probability of a random variable taking on a specific 
 		Height = random variable X
 		Weight = random variable Y
 		
-		n_ij
+		![[Pasted image 20231013134334.png]] = number of individuals with height ![[Pasted image 20231013134453.png]] and weight ![[Pasted image 20231013134609.png]] 
+		
+		![[Pasted image 20231013134700.png]] = number of individuals with height ![[Pasted image 20231013134453.png]] 
+		
+		
