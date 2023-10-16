@@ -23,9 +23,11 @@
             "id": "879c0d534bb510bc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do list.md"
+                "file": "Distributed Systems/Transparency.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do list.md",
+                "file": "Distributed Systems/Transparency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do list.md",
+                "file": "Distributed Systems/Transparency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do list.md"
+                "file": "Distributed Systems/Transparency.md"
               }
             }
           }
@@ -159,9 +161,10 @@
   },
   "active": "879c0d534bb510bc",
   "lastOpenFiles": [
+    "Distributed Systems/Distributed Systems.md",
+    "To Do list.md",
     "Individual Project.md",
     "Final Year Modules.md",
-    "To Do list.md",
     "Machine Learning/Bayes Law.md",
     "Machine Learning/Maximum Likelihood Estimation.md",
     "Distributed Systems/Transparency.md",
@@ -172,7 +175,6 @@
     "Resources/Pasted image 20231011164432.png",
     "Machine Learning",
     "Resources",
-    "Distributed Systems/Distributed Systems.md",
     "Resources/Pasted image 20231011165451.png",
     "Resources/Pasted image 20231013134957.png",
     "Resources/Pasted image 20231013134824.png",

@@ -6,4 +6,5 @@ Types of transparency in Distributed Systems:
 
 - Access - hide differences in data representation & how objects are accessed
 - Location - hide object/server location
-- 
+- Migration - hide object which moves to another server
+- Relocation - 
