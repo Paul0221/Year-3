@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transaction Processing Monitor.md",
+                "file": "Distributed Systems/Transaction Processing Monitor.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transaction Processing Monitor.md",
+                "file": "Distributed Systems/Transaction Processing Monitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transaction Processing Monitor.md",
+                "file": "Distributed Systems/Transaction Processing Monitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transaction Processing Monitor.md"
+                "file": "Distributed Systems/Transaction Processing Monitor.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "879c0d534bb510bc",
   "lastOpenFiles": [
+    "Resources/Pasted image 20231016224707.png",
+    "Distributed Systems/Middleware.md",
+    "Distributed Systems/Transaction Processing Monitor.md",
     "Distributed Information Systems.md",
-    "Transaction Processing Monitor.md",
     "ACID.md",
     "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Cloud Computing.md",
@@ -179,7 +181,6 @@
     "Final Year Modules.md",
     "Machine Learning/Bayes Law.md",
     "Machine Learning/Maximum Likelihood Estimation.md",
-    "Distributed Systems/Middleware.md",
     "Machine Learning/Machine Learning.md",
     "Distributed Systems",
     "Machine Learning/Stochastic Variable.md",
