@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "Distributed Systems/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "Distributed Systems/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "Distributed Systems/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing.md"
+                "file": "Distributed Systems/Cloud Computing.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "879c0d534bb510bc",
   "lastOpenFiles": [
-    "Distributed Systems/High Performance Distributed Systems.md",
-    "Cloud Computing.md",
     "Distributed Systems/Grid Computing.md",
+    "Distributed Systems/Cloud Computing.md",
+    "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Cluster Computing.md",
     "Resources/Pasted image 20231016215809.png",
     "Resources/Pasted image 20231016215026.png",
