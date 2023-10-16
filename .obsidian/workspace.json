@@ -49,7 +49,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "To Do list.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "To Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "To Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "To Do list.md"
               }
             }
           }
@@ -183,7 +183,8 @@
   },
   "active": "9bb1fcf516e231c8",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "Final Year Modules.md",
+    "To Do list.md",
     "Bayes Law.md",
     "Pasted image 20231013134957.png",
     "Pasted image 20231013134824.png",
@@ -195,7 +196,6 @@
     "Bayesian Inference.md",
     "Bernoulli Distribution.md",
     "Maximum Likelihood Estimation.md",
-    "Final Year Modules.md",
     "Pasted image 20231011171554.png",
     "Pasted image 20231011171226.png",
     "Pasted image 20231011171137.png",
