@@ -18,43 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cd2a14fbd4614c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bayes Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d4c48ec9b7c26d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "To Do list.md"
-              }
-            }
-          },
-          {
-            "id": "732dd9a26d717d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transparency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do list.md",
+                "file": "Final Year Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do list.md",
+                "file": "Final Year Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do list.md"
+                "file": "Final Year Modules.md"
               }
             }
           }
@@ -181,30 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7321f6f9ff85bbec",
+  "active": "6885981a93a19f85",
   "lastOpenFiles": [
-    "Untitled",
-    "Transparency.md",
-    "Distributed Systems.md",
-    "Middleware.md",
-    "Final Year Modules.md",
+    "Machine Learning/Bayes Law.md",
+    "Machine Learning/Maximum Likelihood Estimation.md",
+    "Distributed Systems/Transparency.md",
+    "Distributed Systems/Middleware.md",
+    "Machine Learning/Machine Learning.md",
+    "Distributed Systems",
+    "Machine Learning/Stochastic Variable.md",
+    "Resources/Pasted image 20231011164432.png",
+    "Machine Learning",
     "To Do list.md",
-    "Bayes Law.md",
-    "Pasted image 20231011165451.png",
-    "Machine Learning.md",
-    "Pasted image 20231013134957.png",
-    "Pasted image 20231013134824.png",
-    "Pasted image 20231013134700.png",
-    "Pasted image 20231013134609.png",
-    "Pasted image 20231013134453.png",
-    "Pasted image 20231013134334.png",
-    "Bayesian Inference.md",
-    "Bernoulli Distribution.md",
-    "Maximum Likelihood Estimation.md",
-    "Pasted image 20231011171554.png",
-    "Pasted image 20231011171226.png",
-    "Pasted image 20231011171137.png",
-    "Stochastic Variable.md",
+    "Resources",
+    "Distributed Systems/Distributed Systems.md",
+    "Final Year Modules.md",
+    "Resources/Pasted image 20231011165451.png",
+    "Resources/Pasted image 20231013134957.png",
+    "Resources/Pasted image 20231013134824.png",
+    "Resources/Pasted image 20231013134700.png",
+    "Resources/Pasted image 20231013134609.png",
+    "Resources/Pasted image 20231013134453.png",
+    "Resources/Pasted image 20231013134334.png",
+    "Machine Learning/Bayesian Inference.md",
+    "Machine Learning/Bernoulli Distribution.md",
+    "Resources/Pasted image 20231011171554.png",
+    "Resources/Pasted image 20231011171226.png",
     "Bayesian Probability.md",
     "Definitions.md",
     "README.md"
