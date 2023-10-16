@@ -11,11 +11,9 @@
             "id": "6885981a93a19f85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Final Year Modules.md",
-                "mode": "source",
-                "source": false
+                "file": "To Do list.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Year Modules.md",
+                "file": "To Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Year Modules.md",
+                "file": "To Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Year Modules.md"
+                "file": "To Do list.md"
               }
             }
           }
@@ -148,6 +146,7 @@
   },
   "active": "6885981a93a19f85",
   "lastOpenFiles": [
+    "Final Year Modules.md",
     "Machine Learning/Bayes Law.md",
     "Machine Learning/Maximum Likelihood Estimation.md",
     "Distributed Systems/Transparency.md",
@@ -160,7 +159,6 @@
     "To Do list.md",
     "Resources",
     "Distributed Systems/Distributed Systems.md",
-    "Final Year Modules.md",
     "Resources/Pasted image 20231011165451.png",
     "Resources/Pasted image 20231013134957.png",
     "Resources/Pasted image 20231013134824.png",

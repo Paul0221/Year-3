@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Courseworks
 
 **Complete**
+- [x] [[Secure Computing]] Coursework 1 (due 10:00 Wednesday 25th October 2023)
 - [ ] [[Distributed Systems]] MCQ Test (due 17:00 Thursday 26th October)
 - [ ] [[User Adaptive Intelligent Systems]] Coursework - Recommender System Prototype Report (due 10:00 Thursday 23rd November)
 
