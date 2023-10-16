@@ -15,4 +15,6 @@ Distributed Information Systems features:
 
 ![[Pasted image 20231016225208.png]]
 
+- Communication [[Middleware]]
+- [[Remote Procedure Call]]
 - 
