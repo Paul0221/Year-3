@@ -13,10 +13,16 @@ The end user can't tell where computation takes place or where data is stored
 
 Biggest challenge for cloud data centres are overheating however this can be resolved by using underwater data centres
 
-Middleware layer - brings a set of machines together under the same distributed system
+[[Middleware]] layer - brings a set of machines together under the same distributed system
 
-Middleware contains commonly used components & functions that need not be implemented by apps separately
+Challenges of Distributed Systems:
 
-Middleware extends over multiple machines
+- Architecture
+- Reliability
+- Security
+- Scalability
+- Fault Tolerance
+- Openness
+- [[Transparency]]
 
-Middleware
+

@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Transparency.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Transparency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Transparency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems.md"
+                "file": "Transparency.md"
               }
             }
           }
@@ -183,8 +183,10 @@
   },
   "active": "732dd9a26d717d33",
   "lastOpenFiles": [
-    "Final Year Modules.md",
     "Distributed Systems.md",
+    "Transparency.md",
+    "Middleware.md",
+    "Final Year Modules.md",
     "To Do list.md",
     "Bayes Law.md",
     "Pasted image 20231011165451.png",
