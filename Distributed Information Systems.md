@@ -10,3 +10,9 @@ Distributed Information Systems allows direct application-to-application communi
 Ensures that it has an 'all or nothing' transaction property and is [[ACID]] 
 
 Uses [[Transaction Processing Monitor]] 
+
+Distributed Information Systems features:
+
+![[Pasted image 20231016225208.png]]
+
+- 

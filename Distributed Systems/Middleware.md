@@ -1,3 +1,6 @@
+
+Middleware offers communication facilities for application integration
+
 Middleware contains commonly used components & functions that need not be implemented by apps separately
 
 Middleware extends over multiple machines
