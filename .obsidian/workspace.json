@@ -35,22 +35,18 @@
             "id": "82d4c48ec9b7c26d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb1fcf516e231c8",
-            "type": "leaf",
-            "state": {
               "type": "kanban",
               "state": {
                 "file": "To Do list.md"
               }
+            }
+          },
+          {
+            "id": "732dd9a26d717d33",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To Do list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,25 +173,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bb1fcf516e231c8",
+  "active": "732dd9a26d717d33",
   "lastOpenFiles": [
     "Final Year Modules.md",
     "To Do list.md",
     "Bayes Law.md",
+    "Pasted image 20231011165451.png",
+    "Machine Learning.md",
     "Pasted image 20231013134957.png",
     "Pasted image 20231013134824.png",
     "Pasted image 20231013134700.png",
     "Pasted image 20231013134609.png",
     "Pasted image 20231013134453.png",
     "Pasted image 20231013134334.png",
-    "Machine Learning.md",
     "Bayesian Inference.md",
     "Bernoulli Distribution.md",
     "Maximum Likelihood Estimation.md",
     "Pasted image 20231011171554.png",
     "Pasted image 20231011171226.png",
     "Pasted image 20231011171137.png",
-    "Pasted image 20231011171044.png",
     "Stochastic Variable.md",
     "Bayesian Probability.md",
     "Definitions.md",
