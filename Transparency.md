@@ -4,3 +4,6 @@ Significant amount of explicit code need to establish communication between clie
 
 Types of transparency in Distributed Systems:
 
+- Access - hide differences in data representation & how objects are accessed
+- Location - hide object/server location
+- 
