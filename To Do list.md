@@ -9,7 +9,7 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Secure Computing]] Coursework 1 @@{2023-10-25} @@{10:00} @{2023-10-25}
 - [ ] [[Distributed Systems]] MCQ Test @{2023-10-26} @@{17:00}
-- [ ] [[User Adaptive Intelligent Systems]] Coursework - Recommender System Prototype Report (due 10:00 Thursday 23rd November)
+- [ ] [[User Adaptive Intelligent Systems]] Coursework - Recommender System Prototype Report @{2023-11-23} @@{10:00}
 
 
 ## Worksheets
