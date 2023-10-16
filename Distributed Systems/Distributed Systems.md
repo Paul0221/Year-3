@@ -26,3 +26,8 @@ Challenges of Distributed Systems:
 - [[Transparency]]
 
 
+Types of Distributed Systems:
+
+- [[Distributed Information Systems]]
+- [[Distributed Systems for Pervasive Computing]]
+- [[High Performance Distributed Systems]]
