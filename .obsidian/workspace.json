@@ -11,13 +11,24 @@
             "id": "6885981a93a19f85",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do list.md"
+                "file": "Individual Project.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "879c0d534bb510bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To Do list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,9 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6885981a93a19f85",
+  "active": "879c0d534bb510bc",
   "lastOpenFiles": [
+    "Individual Project.md",
     "Final Year Modules.md",
+    "To Do list.md",
     "Machine Learning/Bayes Law.md",
     "Machine Learning/Maximum Likelihood Estimation.md",
     "Distributed Systems/Transparency.md",
@@ -156,7 +165,6 @@
     "Machine Learning/Stochastic Variable.md",
     "Resources/Pasted image 20231011164432.png",
     "Machine Learning",
-    "To Do list.md",
     "Resources",
     "Distributed Systems/Distributed Systems.md",
     "Resources/Pasted image 20231011165451.png",
