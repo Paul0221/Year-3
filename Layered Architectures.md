@@ -11,3 +11,9 @@ Types of layered architectures:
 	- This goes against standard network principles but is allowed in distributed systems
 
 Application Layering using the PAD model:
+
+- Presentation Layer - contains everything required to interface with the user
+- Application Layer - processing layer containing core functionality of the system
+- Data Layer - responsible for persistent storage of the data on which the application operates
+
+PAD model maps these layers onto a physical client-server architecture in various ways
