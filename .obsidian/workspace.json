@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Based Style.md",
+                "file": "Distributed Systems/Resource-Based Architectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object-Based Style.md",
+                "file": "Distributed Systems/Resource-Based Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object-Based Style.md",
+                "file": "Distributed Systems/Resource-Based Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Based Style.md"
+                "file": "Distributed Systems/Resource-Based Architectures.md"
               }
             }
           }
@@ -159,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "879c0d534bb510bc",
+  "active": "7321f6f9ff85bbec",
   "lastOpenFiles": [
+    "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Resource-Based Architectures.md",
+    "Distributed Systems/Object-Based Style.md",
     "Resources/Pasted image 20231018130919.png",
     "Resources/Pasted image 20231018130709.png",
-    "Distributed Systems/Distributed Systems.md",
-    "Object-Based Style.md",
-    "Layered Architectures.md",
+    "Distributed Systems/Layered Architectures.md",
     "Resources/Pasted image 20231018124203.png",
     "Resources/Pasted image 20231018124107.png",
     "Resources/Pasted image 20231018124022.png",
@@ -194,7 +195,6 @@
     "Resources/Pasted image 20231016225208.png",
     "Resources/Pasted image 20231016224707.png",
     "ACID.md",
-    "Resources/Pasted image 20231016222522.png",
     "Machine Learning/Bayes Law.md",
     "Machine Learning/Maximum Likelihood Estimation.md",
     "Machine Learning/Machine Learning.md",
