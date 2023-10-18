@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Oriented Middleware.md",
+                "file": "Ubiquitous Computing Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Oriented Middleware.md",
+                "file": "Ubiquitous Computing Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Oriented Middleware.md",
+                "file": "Ubiquitous Computing Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Oriented Middleware.md"
+                "file": "Ubiquitous Computing Systems.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "879c0d534bb510bc",
   "lastOpenFiles": [
+    "Distributed Systems for Pervasive Computing.md",
+    "Ubiquitous Computing Systems.md",
+    "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Distributed Information Systems.md",
     "Message Oriented Middleware.md",
-    "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Grid Computing.md",
     "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Middleware.md",
@@ -198,7 +200,6 @@
     "Machine Learning/Bayesian Inference.md",
     "Machine Learning/Bernoulli Distribution.md",
     "Bayesian Probability.md",
-    "Definitions.md",
-    "README.md"
+    "Definitions.md"
   ]
 }
