@@ -17,4 +17,4 @@ Distributed Information Systems features:
 
 - Communication [[Middleware]]
 - [[Remote Procedure Call]]
-- 
+- [[Message Oriented Middleware]] 

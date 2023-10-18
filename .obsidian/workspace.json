@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure Computing/Secure Computing.md",
+                "file": "Message Oriented Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure Computing/Secure Computing.md",
+                "file": "Message Oriented Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure Computing/Secure Computing.md",
+                "file": "Message Oriented Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secure Computing/Secure Computing.md"
+                "file": "Message Oriented Middleware.md"
               }
             }
           }
@@ -159,22 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7321f6f9ff85bbec",
+  "active": "879c0d534bb510bc",
   "lastOpenFiles": [
-    "Secure Computing",
-    "To Do list.md",
-    "Secure Computing/Secure Computing.md",
-    "Distributed Systems/Distributed Systems.md",
-    "Distributed Systems/High Performance Distributed Systems.md",
-    "Distributed Systems/Grid Computing.md",
-    "Distributed Systems/Cluster Computing.md",
-    "Distributed Systems/Cloud Computing.md",
     "Distributed Systems/Distributed Information Systems.md",
-    "Distributed Systems/Transparency.md",
-    "Final Year Modules.md",
+    "Message Oriented Middleware.md",
+    "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Grid Computing.md",
+    "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Middleware.md",
     "Distributed Systems/Remote Procedure Call.md",
     "Distributed Systems/Transaction Processing Monitor.md",
+    "Distributed Systems/Transparency.md",
+    "Individual Project.md",
+    "Secure Computing",
+    "To Do list.md",
+    "Secure Computing/Secure Computing.md",
+    "Distributed Systems/Cluster Computing.md",
+    "Distributed Systems/Cloud Computing.md",
+    "Final Year Modules.md",
     "Resources/Pasted image 20231016225208.png",
     "Resources/Pasted image 20231016224707.png",
     "ACID.md",
@@ -182,7 +184,6 @@
     "Resources/Pasted image 20231016215809.png",
     "Resources/Pasted image 20231016215026.png",
     "Resources/Pasted image 20231016214912.png",
-    "Individual Project.md",
     "Machine Learning/Bayes Law.md",
     "Machine Learning/Maximum Likelihood Estimation.md",
     "Machine Learning/Machine Learning.md",
