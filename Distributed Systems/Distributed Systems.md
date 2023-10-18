@@ -32,3 +32,25 @@ Types of Distributed Systems:
 - [[Distributed Systems for Pervasive Computing]]
 - [[High Performance Distributed Systems]]
 
+Software components - components that constitute the system
+
+Software architectures - organise various software components
+
+System architectures - instantiation of a software architecture
+
+Architectural style is formulated in terms of:
+
+- Replaceable components with well-defined interfaces
+- Ways components are connected to each other
+- Data exchanged between components
+- How these components and connectors are jointly configured into a system
+
+![[Pasted image 20231018123649.png]]
+
+Architectural Styles for Distributed Systems:
+
+- [[Event-Based Architectures]]
+- [[Layered Architectures]]
+- [[Object-Based Style]]
+- [[Resource-Based Architectures]]
+- 
