@@ -15,4 +15,8 @@ Resource-Based Architectures adopt Representational State Transfer (REST) web se
 - Update a resource by transferring new state (PUT operation)
 - Delete a resource (DELETE operation)
 
-Types of operations carr
+Types of operations carried out by sending HTTP requests:
+
+- Create a bucket/object with POST along with URL
+- Listing objects with GET on a bucket name
+- Reading an object with get on a full URL
