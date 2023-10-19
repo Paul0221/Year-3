@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/System Architectures.md",
+                "file": "Decentralised Organisations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/System Architectures.md",
+                "file": "Decentralised Organisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/System Architectures.md",
+                "file": "Decentralised Organisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/System Architectures.md"
+                "file": "Decentralised Organisations.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
-    "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/System Architectures.md",
+    "Decentralised Organisations.md",
+    "Distributed Systems/Distributed Systems.md",
     "Centralised Organisations.md",
     "N-Tier Architecture.md",
     "Distributed Systems/3-Tiered Architecture.md",
@@ -208,7 +209,6 @@
     "Distributed Systems/Middleware.md",
     "Distributed Systems/Remote Procedure Call.md",
     "Distributed Systems/Transaction Processing Monitor.md",
-    "Distributed Systems/Transparency.md",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",
