@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/2-Tiered Architecture.md",
+                "file": "Distributed Systems/System Architectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/2-Tiered Architecture.md",
+                "file": "Distributed Systems/System Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/2-Tiered Architecture.md",
+                "file": "Distributed Systems/System Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/2-Tiered Architecture.md"
+                "file": "Distributed Systems/System Architectures.md"
               }
             }
           }
@@ -173,16 +173,19 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/System Architectures.md",
+    "Centralised Organisations.md",
+    "N-Tier Architecture.md",
+    "Distributed Systems/3-Tiered Architecture.md",
+    "Resources/Pasted image 20231019163310.png",
+    "Distributed Systems/2-Tiered Architecture.md",
     "Resources/Pasted image 20231019162746.png",
     "Resources/Pasted image 20231019162527.png",
     "ACID.md",
-    "Distributed Systems/2-Tiered Architecture.md",
-    "Centralised Organisations.md",
     "Distributed Systems/Basic Client-Server Model.md",
     "Resources/Pasted image 20231019161636.png",
     "2-Tiered Organisations.md",
-    "Distributed Systems/System Architectures.md",
-    "Distributed Systems/Distributed Systems.md",
     "Event-Based Architectures.md",
     "Resources/Pasted image 20231019160529.png",
     "Resources/Pasted image 20231019160436.png",
@@ -194,8 +197,6 @@
     "Resources/Pasted image 20231018130919.png",
     "Resources/Pasted image 20231018130709.png",
     "Resources/Pasted image 20231018124203.png",
-    "Resources/Pasted image 20231018124107.png",
-    "Resources/Pasted image 20231018124022.png",
     "Distributed Systems/Distributed Systems for Pervasive Computing.md",
     "Distributed Systems/Sensor Networks.md",
     "Distributed Systems/Mobile Computing Systems.md",
@@ -208,7 +209,6 @@
     "Distributed Systems/Remote Procedure Call.md",
     "Distributed Systems/Transaction Processing Monitor.md",
     "Distributed Systems/Transparency.md",
-    "Individual Project.md",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",

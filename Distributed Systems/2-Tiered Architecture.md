@@ -3,4 +3,4 @@
 
 Server has lots of work to do
 
-The client machine can do some processing but it doesn't have all
+The client machine can do some processing but it doesn't have all the data to carry out the processes
