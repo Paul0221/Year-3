@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event-Based Architectures.md",
+                "file": "Distributed Systems/System Architectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event-Based Architectures.md",
+                "file": "Distributed Systems/System Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event-Based Architectures.md",
+                "file": "Distributed Systems/System Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event-Based Architectures.md"
+                "file": "Distributed Systems/System Architectures.md"
               }
             }
           }
@@ -171,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ff07bfdb35c4eb",
+  "active": "7321f6f9ff85bbec",
   "lastOpenFiles": [
+    "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/System Architectures.md",
+    "Event-Based Architectures.md",
     "Resources/Pasted image 20231019160529.png",
     "Resources/Pasted image 20231019160436.png",
     "Resources/Pasted image 20231019160207.png",
-    "Distributed Systems/Distributed Systems.md",
-    "Event-Based Architectures.md",
     "Distributed Systems/Layered Architectures.md",
     "Distributed Systems/Object-Based Style.md",
     "Distributed Systems/Resource-Based Architectures.md",
@@ -191,7 +192,6 @@
     "Resources/Pasted image 20231018123649.png",
     "Distributed Systems/Distributed Systems for Pervasive Computing.md",
     "Distributed Systems/Sensor Networks.md",
-    "Resources/Pasted image 20231018123154.png",
     "Distributed Systems/Mobile Computing Systems.md",
     "Distributed Systems/Ubiquitous Computing Systems.md",
     "Distributed Systems/Distributed Information Systems.md",

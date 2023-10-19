@@ -32,11 +32,11 @@ Types of Distributed Systems:
 - [[Distributed Systems for Pervasive Computing]]
 - [[High Performance Distributed Systems]]
 
-Software components - components that constitute the system
+Software Components - components that constitute the system
 
-Software architectures - organise various software components
+Software Architectures - organise various software components
 
-System architectures - instantiation of a software architecture
+[[System Architectures]] - instantiation of a software architecture
 
 Architectural style is formulated in terms of:
 
