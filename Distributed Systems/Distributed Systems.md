@@ -53,4 +53,6 @@ Architectural Styles for Distributed Systems:
 - [[Layered Architectures]]
 - [[Object-Based Style]]
 - [[Resource-Based Architectures]]
-- 
+
+[[Communication]]
+
