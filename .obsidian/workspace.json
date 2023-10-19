@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decentralised Organisations.md",
+                "file": "Distributed Systems/Decentralised Organisations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decentralised Organisations.md",
+                "file": "Distributed Systems/Decentralised Organisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decentralised Organisations.md",
+                "file": "Distributed Systems/Decentralised Organisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decentralised Organisations.md"
+                "file": "Distributed Systems/Decentralised Organisations.md"
               }
             }
           }
@@ -171,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ff07bfdb35c4eb",
+  "active": "7321f6f9ff85bbec",
   "lastOpenFiles": [
+    "Resources/Pasted image 20231019164116.png",
     "Distributed Systems/System Architectures.md",
-    "Decentralised Organisations.md",
+    "Distributed Systems/Decentralised Organisations.md",
     "Distributed Systems/Distributed Systems.md",
     "Centralised Organisations.md",
     "N-Tier Architecture.md",
@@ -208,7 +209,6 @@
     "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Middleware.md",
     "Distributed Systems/Remote Procedure Call.md",
-    "Distributed Systems/Transaction Processing Monitor.md",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",
