@@ -15,7 +15,7 @@ kanban-plugin: basic
 ## Worksheets
 
 **Complete**
-- [x] [[Distributed Systems]] Go over lab exercises for weeks 1-3
+- [x] [[Distributed Systems]] Go over lab exercises for weeks 1 & 2
 - [x] [[Machine Learning]] Expectation Values Worksheet
 - [x] [[User Adaptive Intelligent Systems]] Read User Profiles for Personalized Information Access - Section 2.2
 - [x] [[User Adaptive Intelligent Systems]] Practical Task from User Information Collection Lecture
