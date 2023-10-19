@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Tiered Architecture.md",
+                "file": "Distributed Systems/2-Tiered Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Tiered Architecture.md",
+                "file": "Distributed Systems/2-Tiered Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Tiered Architecture.md",
+                "file": "Distributed Systems/2-Tiered Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Tiered Architecture.md"
+                "file": "Distributed Systems/2-Tiered Architecture.md"
               }
             }
           }
@@ -173,9 +173,11 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "Resources/Pasted image 20231019162527.png",
+    "ACID.md",
+    "Distributed Systems/2-Tiered Architecture.md",
     "Centralised Organisations.md",
-    "2-Tiered Architecture.md",
-    "Basic Client-Server Model.md",
+    "Distributed Systems/Basic Client-Server Model.md",
     "Resources/Pasted image 20231019161636.png",
     "2-Tiered Organisations.md",
     "Distributed Systems/System Architectures.md",
@@ -208,8 +210,6 @@
     "Distributed Systems/Transparency.md",
     "Individual Project.md",
     "Secure Computing",
-    "Secure Computing/Secure Computing.md",
-    "Distributed Systems/Cluster Computing.md",
     "Distributed Systems",
     "Machine Learning",
     "Resources"
