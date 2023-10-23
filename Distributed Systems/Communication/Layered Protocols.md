@@ -3,6 +3,8 @@
 
 Transmission Control Protocol/Internet Protocol (TCP/IP) stack has 7 layers
 
+(See [[Layered Network Models]] from Networks module Year 2 for more about )
+
 The [[Middleware]] protocol provides common services and protocols that can be used by many different applications:
 
 - Rich set of communication protocols

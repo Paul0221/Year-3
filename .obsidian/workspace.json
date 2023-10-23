@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Architectures/Centralised Organisations.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Architectures/Centralised Organisations.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Architectures/Centralised Organisations.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Architectures/Centralised Organisations.md"
+                "file": "Distributed Systems/Communication/Layered Protocols.md"
               }
             }
           }
@@ -173,8 +173,15 @@
   },
   "active": "8af5aa2e461764f3",
   "lastOpenFiles": [
-    "Distributed Systems/Architectures/System Architectures.md",
+    "Distributed Systems/Architectures/Centralised Organisations.md",
     "Related Modules From Year 1 & 2/Networks.md",
+    "Distributed Systems/Communication/Layered Protocols.md",
+    "Distributed Systems/Architectures/Hybrid Organisations.md",
+    "Distributed Systems/Architectures/System Architectures.md",
+    "Distributed Systems/Architectures/Decentralised Organisations.md",
+    "Distributed Systems/Architectures/3-Tiered Architecture.md",
+    "Distributed Systems/Architectures/N-Tier Architecture.md",
+    "Distributed Systems/Architectures/Basic Client-Server Model.md",
     "Related Modules From Year 1 & 2.md",
     "Related Modules From Year 1 & 2",
     "Distributed Systems/Architectures/Layered Architectures.md",
@@ -190,7 +197,6 @@
     "Resources/Pasted image 20231023230728.png",
     "Resources/Pasted image 20231023230718.png",
     "Resources/Pasted image 20231023230325.png",
-    "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Communication/Message Oriented Communication.md",
     "Distributed Systems/Communication/Message Passing Interface Primitives.md",
@@ -200,11 +206,6 @@
     "Distributed Systems/Cloud Computing.md",
     "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Cluster Computing.md",
-    "Distributed Systems/Architectures/Object-Based Style.md",
-    "Distributed Systems/Architectures/Event-Based Architectures.md",
-    "Distributed Systems/Communication/Marshalling and Unmarshalling.md",
-    "Distributed Systems/Architectures/Hybrid Organisations.md",
-    "Distributed Systems/Architectures/Decentralised Organisations.md",
     "Distributed Systems/Architectures",
     "Distributed Systems/Communication",
     "Resources/Pasted image 20231023151834.png",

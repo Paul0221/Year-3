@@ -6,4 +6,3 @@ Types of centralised organisations:
 - [[3-Tiered Architecture]]
 - [[N-Tier Architecture]]
 
-** See  **
