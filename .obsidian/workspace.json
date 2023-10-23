@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md"
+                "file": "Distributed Systems/Communication/Layered Protocols.md"
               }
             }
           }
@@ -173,8 +173,13 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
-    "Distributed Systems/Architectures/Resource-Based Architectures.md",
+    "Distributed Systems/Cloud Computing.md",
     "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/High Performance Distributed Systems.md",
+    "Distributed Systems/Communication/Layered Protocols.md",
+    "Distributed Systems/Cluster Computing.md",
+    "Distributed Systems/Communication/Communication.md",
+    "Distributed Systems/Architectures/Resource-Based Architectures.md",
     "Distributed Systems/Architectures/Object-Based Style.md",
     "Distributed Systems/Architectures/Layered Architectures.md",
     "Distributed Systems/Architectures/Event-Based Architectures.md",
@@ -189,9 +194,7 @@
     "Distributed Systems/Architectures/Basic Client-Server Model.md",
     "Distributed Systems/Distributed Systems for Pervasive Computing.md",
     "Distributed Systems/Architectures",
-    "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Communication/Message Oriented Middleware.md",
-    "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Communication/Remote Method Invocation.md",
     "Distributed Systems/Communication",
     "Resources/Pasted image 20231023151834.png",
@@ -208,8 +211,6 @@
     "Resources/Pasted image 20231019164116.png",
     "Resources/Pasted image 20231019163310.png",
     "2-Tiered Organisations.md",
-    "To Do list.md",
-    "Distributed Systems/Sensor Networks.md",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",
