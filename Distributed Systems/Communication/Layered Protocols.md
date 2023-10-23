@@ -38,6 +38,7 @@ Client/Server computing is generally based on transient synchronous communicatio
 Methods of communication:
 
 - [[Message Oriented Communication]]
+- [[Message Passing Interface]]
 - [[Remote Method Invocation]]
 - [[Remote Procedure Call]]
 

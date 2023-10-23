@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Message Passing Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Message Passing Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Message Passing Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md"
+                "file": "Message Passing Interface.md"
               }
             }
           }
@@ -173,10 +173,14 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "Distributed Systems/Communication/Layered Protocols.md",
+    "Message Passing Interface.md",
+    "Message Oriented Communication.md",
+    "Resources/Pasted image 20231023153217.png",
+    "Resources/Pasted image 20231023153159.png",
     "Distributed Systems/Cloud Computing.md",
     "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/High Performance Distributed Systems.md",
-    "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Cluster Computing.md",
     "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Architectures/Resource-Based Architectures.md",
@@ -203,14 +207,10 @@
     "ACID.md",
     "Resources/Pasted image 20231023145701.png",
     "Resources/Pasted image 20231023141429.png",
-    "Distributed Systems/Middleware.md",
     "Resources/Pasted image 20231023140737.png",
     "Resources/Pasted image 20231023140720.png",
     "Resources/Pasted image 20231023134159.png",
     "Resources/Pasted image 20231019164905.png",
-    "Resources/Pasted image 20231019164116.png",
-    "Resources/Pasted image 20231019163310.png",
-    "2-Tiered Organisations.md",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",
