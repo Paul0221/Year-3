@@ -34,3 +34,5 @@ Client/Server computing is generally based on transient synchronous communicatio
 - Processes send each other messages which are queued
 - Sender doesn't wait for immediate reply but can do other things
 - [[Middleware]] often ensures fault tolerance to make sure message is not lost
+
+[[Remote Procedure Call]] is a well engineered 
