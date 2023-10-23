@@ -20,9 +20,9 @@ class TCPClient{
 		
 		sentence = inFromUser.readLine();
 		
-		outToServer.writeBytes(sentence + '\n'); \*Sends the inputline to the server*\
+		outToServer.writeBytes(sentence + '\n'); \*Sends the input line to the server*\
 		
-		modifiedSentence = inFromServer.readLine(); /*Reads the inputline from the server*/
+		modifiedSentence = inFromServer.readLine(); /*Reads the input line from the server*/
 		
 		System.out.println("FROM SERVER: " + modifiedSentence);
 		
@@ -50,8 +50,15 @@ class TCPServer{
 			
 			BufferedReader inFromClient = new BufferedReader(new InputStreamReader(connectionSocket.getInputStream())); /*Creates input stream that's attached to the socket*/
 			
-			DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream()); /*Creates outputstrea*/
-		}
+			DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream()); /*Creates output stream that's attached to the socket*/
+			
+			clientSentence = inFromClient.readline(); /*Reads input line from the socket*/
+			
+			capitalisedSentence = clientSentence.toUpperCase() + '\n';
+			
+			outToClient.writeBytes(capitalisedSentence); /*Writes output line to socket*/
+		} /*End of while loop loops back and waits for another client connection*/
 	}
 }
 ```
+
