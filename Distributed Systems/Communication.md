@@ -5,3 +5,6 @@ In reality, communication is more complex as it uses:
 
 - Various networks (i.e. Wi-Fi, home DSL, cellular data, submarine cables, satellites etc)
 - Physical communication (i.e. electric current, radio waves, lasers etc)
+
+Communication has large scale data transfer service:
+
