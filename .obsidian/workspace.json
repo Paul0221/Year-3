@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marshalling and Unmarshalling.md",
+                "file": "Distributed Systems/Marshalling and Unmarshalling.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marshalling and Unmarshalling.md",
+                "file": "Distributed Systems/Marshalling and Unmarshalling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marshalling and Unmarshalling.md",
+                "file": "Distributed Systems/Marshalling and Unmarshalling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marshalling and Unmarshalling.md"
+                "file": "Distributed Systems/Marshalling and Unmarshalling.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "ACID.md",
+    "Distributed Systems/Marshalling and Unmarshalling.md",
     "Distributed Systems/Remote Procedure Call.md",
-    "Marshalling and Unmarshalling.md",
     "Resources/Pasted image 20231023145701.png",
     "Distributed Systems/Layered Protocols.md",
     "Resources/Pasted image 20231023141429.png",
@@ -197,7 +198,6 @@
     "Distributed Systems/2-Tiered Architecture.md",
     "Resources/Pasted image 20231019162746.png",
     "Resources/Pasted image 20231019162527.png",
-    "ACID.md",
     "Distributed Systems/Basic Client-Server Model.md",
     "2-Tiered Organisations.md",
     "Distributed Systems/Layered Architectures.md",
