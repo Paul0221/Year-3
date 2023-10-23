@@ -28,4 +28,9 @@ General architecture of a message-queuing system:
 
 - Shows the relationship between queue-level addressing & network-level addressing
 
-General organisation of a message-queuing system with a net
+General organisation of a message-queuing system with a network of routers:
+
+![[Pasted image 20231023230904.png]]
+
+An example of message-queuing with a network of routers is [[Advanced Message Queueing Protocol]]
+
