@@ -3,11 +3,18 @@ Transmission Control Protocol application provides reliable, in-order transfer o
 
 Stages of Transmission Control Protocol Socket programming:
 
-- Server process must first be running and must have created a socket to welcome a client's contact
-- The client contacts the server by creating a client-local TCP socket which specifies the IP address and port number of server process
-- When the client creates the socket the client TCP establishes connection to the server TCP
-- When contacted by the client, the server TCP creates a new socket for server processes to communicate with the client which allows server to talk to multiple clients
+1) Server process must first be running and must have created a socket to welcome a client's contact
+2) The client contacts the server by creating a client-local TCP socket which specifies the IP address and port number of server process 
+3) When the client creates the socket the client TCP establishes connection to the server TCP
+4) When contacted by the client, the server TCP creates a new socket for server processes to communicate with the client which allows server to talk to multiple clients
 	- Source port numbers are used to distinguish clients
 
 
 Client-server app example:
+
+![[Pasted image 20231024000444.png]] 
+
+1) Client reads the line from standard input stream (inFromUser) and sends it to the server via output stream (outToServer)
+2) The server reads the line from the socket
+3) The server converts the line to uppercase and then sends it back to the client
+4) The client reads
