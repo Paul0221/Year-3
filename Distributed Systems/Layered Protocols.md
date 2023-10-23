@@ -22,4 +22,13 @@ Types of communication:
 - Transient - server discards the message when it can't be delivered at the next server or at the receiver
 - Persistent - a message is stored at the server as long as it takes to deliver it
 
-Client/Server computing is generally based on 
+Client/Server computing is generally based on transient synchronous communication where:
+
+- Client and server have to be active at the time of communication
+- Client issues request and blocks until it receives a reply
+- Server waits only for incoming requests and subsequently processes them
+- Drawback is that the client and server can't do other things whilst waiting for a request
+
+[[Message Oriented Middleware]] aims at high level persistent asynchronous communication where:
+
+- Processes 
