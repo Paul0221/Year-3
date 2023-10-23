@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do list.md",
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do list.md",
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do list.md"
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md"
               }
             }
           }
@@ -181,8 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc8514e325d265b9",
+  "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "To Do list.md",
     "Distributed Systems/Communication/Message Oriented Communication.md",
     "Distributed Systems/Communication/Message Passing Interface Primitives.md",
     "Distributed Systems/Communication/Message Passing Interface.md",
@@ -213,7 +214,6 @@
     "Distributed Systems/Communication/Remote Method Invocation.md",
     "Distributed Systems/Communication",
     "Resources/Pasted image 20231023151834.png",
-    "Distributed Systems/Communication/Remote Procedure Call.md",
     "Resources/Pasted image 20231023151555.png",
     "Resources/Pasted image 20231023145701.png",
     "Resources/Pasted image 20231023141429.png",
