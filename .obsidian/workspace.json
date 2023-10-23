@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md",
+                "file": "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md",
+                "file": "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md",
+                "file": "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md"
+                "file": "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md"
               }
             }
           }
@@ -181,11 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ff07bfdb35c4eb",
+  "active": "0de9004b81d9ecb9",
   "lastOpenFiles": [
+    "Resources/Pasted image 20231023230728.png",
+    "Resources/Pasted image 20231023230718.png",
     "Resources/Pasted image 20231023230325.png",
     "Distributed Systems/Communication/Layered Protocols.md",
-    "Message Oriented Persistent Communication with Message-Queuing Model.md",
+    "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
     "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Communication/Message Oriented Communication.md",
@@ -219,8 +221,6 @@
     "Resources/Pasted image 20231023141429.png",
     "Resources/Pasted image 20231023140737.png",
     "Resources/Pasted image 20231023140720.png",
-    "Resources/Pasted image 20231023134159.png",
-    "Resources/Pasted image 20231019164905.png",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",

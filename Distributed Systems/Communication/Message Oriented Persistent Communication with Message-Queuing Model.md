@@ -16,4 +16,16 @@ Basic interface to queue in a message-queuing system:
 
 a) The sender sends the message and the receiver receives the message as both are running
 
-b) The sender sends the mes
+b) The sender sends the message but the receiver doesn't receive the message yet as it's not running
+
+c) The sender already sent a message and is now doing other things but now the receiver is running and can receive the message
+
+d) The sender already sent a message and is now doing other things but the receiver hasn't received the message as it's not running
+
+General architecture of a message-queuing system:
+
+![[Pasted image 20231023230728.png]]
+
+- Shows the relationship between queue-level addressing & network-level addressing
+
+General organisation of a message-queuing system with a net
