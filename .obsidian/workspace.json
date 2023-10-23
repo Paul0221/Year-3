@@ -47,8 +47,10 @@
             "id": "fc8514e325d265b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "To Do list.md"
+              }
             }
           }
         ],
@@ -118,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "To Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "To Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "To Do list.md"
+              }
             }
           }
         ]
