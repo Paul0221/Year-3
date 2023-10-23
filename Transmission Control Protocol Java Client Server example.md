@@ -50,7 +50,7 @@ class TCPServer{
 			
 			BufferedReader inFromClient = new BufferedReader(new InputStreamReader(connectionSocket.getInputStream())); /*Creates input stream that's attached to the socket*/
 			
-			DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream());
+			DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream()); /*Creates outputstrea*/
 		}
 	}
 }
