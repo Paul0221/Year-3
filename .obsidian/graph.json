@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Modules",
+      "query": "path:\"Distributed Systems\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16669585
       }
     },
     {
-      "query": "section:)",
+      "query": "path:\"Machine Learning\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13247149
+      }
+    },
+    {
+      "query": "path:\"Secure Computing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8778866
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.5918462734043829,
+  "close": true
 }
