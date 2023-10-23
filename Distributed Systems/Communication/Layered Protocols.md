@@ -35,5 +35,10 @@ Client/Server computing is generally based on transient synchronous communicatio
 - Sender doesn't wait for immediate reply but can do other things
 - [[Middleware]] often ensures fault tolerance to make sure message is not lost
 
-[[Remote Procedure Call]]
+Methods of communication:
+
+- [[Remote Method Invocation]]
+- [[Remote Procedure Call]]
+
+
 

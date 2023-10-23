@@ -17,4 +17,10 @@ The client and server have to agree on the same encoding so they need to properl
 Data marshalling issues:
 
 - Client and server might encode characters differently
-- Client and server might implement integers and floating-point numbers dig
+- Client and server might implement integers and floating-point numbers differently
+
+Asynchronous Remote Procedure Call gets rid of strict request-reply behaviour and lets the client continue without waiting for an answer from the server
+
+- This allows a call back from the server to the client
+
+![[Pasted image 20231023151555.png]]
