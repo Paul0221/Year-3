@@ -10,4 +10,7 @@ RPC is a well engineered procedure that operates in isolation (black box)
 ![[Pasted image 20231023145701.png]]
 
 - Client procedure calls client stub (proxy)
-- Client stub builds message (martials)
+- Client stub builds message (martials) and calls the local OS
+- Client's OS sends message to remote OS
+- Remote OS give message to server stub
+- Server stub unpacks parameters **
