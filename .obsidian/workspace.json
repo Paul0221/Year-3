@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md"
+                "file": "Distributed Systems/Communication.md"
               }
             }
           }
@@ -173,15 +173,17 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "Resources/Pasted image 20231023134159.png",
+    "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Communication.md",
+    "Distributed Systems/Hybrid Organisations.md",
     "Distributed Systems/Event-Based Architectures.md",
     "Distributed Systems/Centralised Organisations.md",
     "Distributed Systems/N-Tier Architecture.md",
-    "Distributed Systems/Hybrid Organisations.md",
     "Resources/Pasted image 20231019164905.png",
     "Distributed Systems/System Architectures.md",
     "Distributed Systems/Decentralised Organisations.md",
     "Resources/Pasted image 20231019164116.png",
-    "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/3-Tiered Architecture.md",
     "Resources/Pasted image 20231019163310.png",
     "Distributed Systems/2-Tiered Architecture.md",
@@ -207,7 +209,6 @@
     "Distributed Systems/Message Oriented Middleware.md",
     "Distributed Systems/Grid Computing.md",
     "Distributed Systems/High Performance Distributed Systems.md",
-    "Distributed Systems/Middleware.md",
     "Secure Computing",
     "Distributed Systems",
     "Machine Learning",
