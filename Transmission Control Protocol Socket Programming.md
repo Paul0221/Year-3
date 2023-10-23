@@ -14,7 +14,14 @@ Client-server app example:
 
 ![[Pasted image 20231024000444.png]] 
 
-1) Client reads the line from standard input stream (inFromUser) and sends it to the server via output stream (outToServer)
+1) Client reads the line from the client's standard input stream (inFromUser) and sends it to the server via output stream (outToServer)
 2) The server reads the line from the socket
 3) The server converts the line to uppercase and then sends it back to the client
-4) The client reads
+4) The client reads and then prints the modified line from the server's input stream (inFromServer)
+
+TCP client/server socket interaction:
+
+![[Pasted image 20231024001136.png]]
+
+- ServerSocket(int port) - used to listen for connections on a specified port number
+- accept() - used to liste
