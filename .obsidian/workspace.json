@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Passing Interface Primitives.md",
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Passing Interface Primitives.md",
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Passing Interface Primitives.md",
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Passing Interface Primitives.md"
+                "file": "Distributed Systems/Communication/Message Oriented Communication.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ff07bfdb35c4eb",
+  "active": "7321f6f9ff85bbec",
   "lastOpenFiles": [
-    "Message Passing Interface.md",
-    "Message Passing Interface Primitives.md",
+    "Distributed Systems/Communication/Message Passing Interface Primitives.md",
+    "Distributed Systems/Communication/Message Passing Interface.md",
     "Distributed Systems/Communication/Layered Protocols.md",
-    "Message Oriented Communication.md",
+    "Distributed Systems/Communication/Message Oriented Communication.md",
     "Resources/Pasted image 20231023153217.png",
     "Resources/Pasted image 20231023153159.png",
     "Distributed Systems/Cloud Computing.md",
