@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md"
+                "file": "Message Oriented Persistent Communication with Message-Queuing Model.md"
               }
             }
           }
@@ -183,13 +183,15 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "Resources/Pasted image 20231023230325.png",
+    "Distributed Systems/Communication/Layered Protocols.md",
+    "Message Oriented Persistent Communication with Message-Queuing Model.md",
     "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Communication/Message Oriented Communication.md",
     "To Do list.md",
     "Distributed Systems/Communication/Message Passing Interface Primitives.md",
     "Distributed Systems/Communication/Message Passing Interface.md",
-    "Distributed Systems/Communication/Layered Protocols.md",
     "Resources/Pasted image 20231023153217.png",
     "Resources/Pasted image 20231023153159.png",
     "Distributed Systems/Cloud Computing.md",
@@ -210,8 +212,6 @@
     "Distributed Systems/Architectures/Basic Client-Server Model.md",
     "Distributed Systems/Distributed Systems for Pervasive Computing.md",
     "Distributed Systems/Architectures",
-    "Distributed Systems/Communication/Message Oriented Middleware.md",
-    "Distributed Systems/Communication/Remote Method Invocation.md",
     "Distributed Systems/Communication",
     "Resources/Pasted image 20231023151834.png",
     "Resources/Pasted image 20231023151555.png",
