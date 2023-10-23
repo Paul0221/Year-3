@@ -15,3 +15,6 @@ Layered protocol adapted with middleware protocol:
 
 ![[Pasted image 20231023141429.png]]
 
+Types of communication:
+
+- Asynchronous - client sends a request to the server for the client to do something else then check to see a reply from the server
