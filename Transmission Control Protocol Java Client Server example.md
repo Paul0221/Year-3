@@ -37,6 +37,21 @@ Server implementation:
 import java.io.*
 import java.net.*
 class TCPServer{
-	
+	public static void main(String argv[]) throws Exception
+	{
+		String clientSentence;
+		String capitalisedSentence;
+		
+		ServerSocket welcomeSocket = new ServerSocket(6789); /*Creates welcoming socket at port 6789 for clients to connect to*/
+		
+		while(true){
+			
+			Socket connectionSocket = welcomeSocket.accept(); /*Waits on welcoming socket for contact by client*/
+			
+			BufferedReader inFromClient = new BufferedReader(new InputStreamReader(connectionSocket.getInputStream())); /*Creates input stream that's attached to the socket*/
+			
+			DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream());
+		}
+	}
 }
 ```
