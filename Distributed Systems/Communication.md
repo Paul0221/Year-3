@@ -8,3 +8,6 @@ In reality, communication is more complex as it uses:
 
 Communication has large scale data transfer service:
 
+- Can be installed anywhere
+- Provides a data centre in a box
+- Often combined with networking capabilities such as edge gateways and smart routers
