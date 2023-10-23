@@ -10,4 +10,3 @@ Types of system architecture organisations:
 - [[Centralised Organisations]]
 - [[Decentralised Organisations]]
 - [[Hybrid Organisations]]
-- 

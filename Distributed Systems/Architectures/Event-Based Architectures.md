@@ -12,4 +12,3 @@ Types of coordination:
 - Shared Data-Space - processes communicate through tuples among all the components
 ![[Pasted image 20231019160529.png]]
 	- Tuples - data records consisting of a number of fields similar to a row in a database
-- 

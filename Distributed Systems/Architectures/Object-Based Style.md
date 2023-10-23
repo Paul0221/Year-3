@@ -3,9 +3,9 @@
 
 Components are objects connected to each other through procedure calls
 
-Objects may be placed on different machines and calls can thus execute across a network (
+Objects may be placed on different machines and calls can thus execute across a network
 
-	e.g. Remote Method Invocation aka RMI
+E.g. [[Remote Method Invocation]] aka RMI
 
 Objects encapsulate data and offer methods on that data without revealing the internal implementation
 
@@ -17,5 +17,5 @@ Proxy is on the client-side which invokes a method on the object in the server m
 
 Skeleton is on the server-side which invokes a method on the object in the client machine
 
-Both the proxy and skeleton martial and unmartial an RPC (Remote Procedure Call)
+Both the proxy and skeleton [[Marshalling and Unmarshalling]] a [[Remote Procedure Call]]
 
