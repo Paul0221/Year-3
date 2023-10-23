@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Related Modules From Year 1 & 2/Networks/Networks.md",
+                "file": "Distributed Systems/Sockets/Sockets.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Related Modules From Year 1 & 2/Networks/Networks.md",
+                "file": "Distributed Systems/Sockets/Sockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Related Modules From Year 1 & 2/Networks/Networks.md",
+                "file": "Distributed Systems/Sockets/Sockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Related Modules From Year 1 & 2/Networks/Networks.md"
+                "file": "Distributed Systems/Sockets/Sockets.md"
               }
             }
           }
@@ -171,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8af5aa2e461764f3",
+  "active": "7321f6f9ff85bbec",
   "lastOpenFiles": [
+    "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Sockets/Sockets.md",
+    "Related Modules From Year 1 & 2/Networks/Networks.md",
+    "Distributed Systems/Sockets",
     "Layered Network Models.md",
     "Related Modules From Year 1 & 2/Networks/5-Layer Transmission Control Protocol Internet Protocol.md",
     "Related Modules From Year 1 & 2/Networks",
@@ -181,7 +185,6 @@
     "Resources/Pasted image 20231023233958.png",
     "5-Layer Transmission Control Protocol",
     "Resources/Pasted image 20231023233100.png",
-    "Related Modules From Year 1 & 2/Networks/Networks.md",
     "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Architectures/Centralised Organisations.md",
     "Distributed Systems/Architectures/Hybrid Organisations.md",
@@ -195,7 +198,6 @@
     "Distributed Systems/Architectures/Layered Architectures.md",
     "Final Year Modules.md",
     "Secure Computing/Secure Computing.md",
-    "Distributed Systems/Distributed Systems.md",
     "To Do list.md",
     "Distributed Systems/Communication/Advanced Message Queueing Protocol.md",
     "Individual Project.md",

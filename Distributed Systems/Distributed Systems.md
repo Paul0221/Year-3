@@ -54,5 +54,7 @@ Architectural Styles for Distributed Systems:
 - [[Object-Based Style]]
 - [[Resource-Based Architectures]]
 
+[[Sockets]]
+
 [[Communication]]
 
