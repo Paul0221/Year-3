@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Remote Procedure Call.md",
+                "file": "Marshalling and Unmarshalling.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Remote Procedure Call.md",
+                "file": "Marshalling and Unmarshalling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Remote Procedure Call.md",
+                "file": "Marshalling and Unmarshalling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Remote Procedure Call.md"
+                "file": "Marshalling and Unmarshalling.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "01ff07bfdb35c4eb",
   "lastOpenFiles": [
+    "Distributed Systems/Remote Procedure Call.md",
+    "Marshalling and Unmarshalling.md",
     "Resources/Pasted image 20231023145701.png",
     "Distributed Systems/Layered Protocols.md",
-    "Distributed Systems/Remote Procedure Call.md",
     "Resources/Pasted image 20231023141429.png",
     "Distributed Systems/Middleware.md",
     "Resources/Pasted image 20231023140737.png",
@@ -198,7 +199,6 @@
     "Resources/Pasted image 20231019162527.png",
     "ACID.md",
     "Distributed Systems/Basic Client-Server Model.md",
-    "Resources/Pasted image 20231019161636.png",
     "2-Tiered Organisations.md",
     "Distributed Systems/Layered Architectures.md",
     "Distributed Systems/Object-Based Style.md",
