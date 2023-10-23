@@ -11,6 +11,12 @@ class TCPClient{
 		String sentence;
 		String modifiedSentence;
 		
-		BufferedReader inFromUser = new BufferedReader(new InputStream)
+		BufferedReader inFromUser = new BufferedReader(new InputStreamReader(System.in)); /* Creates client input stream*/
+		
+		Socket clientSocket = new Socket("hostname", 6789); /*Creates client socket to connect to the server*/
+		
+		DataOutputStream outToServer outToServer = new DataOutputStream(clientSocket.getOutputStream()); /*Creates server's output stream*/
+		
+		BufferReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()))
 	}
 }```
