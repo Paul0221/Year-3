@@ -24,4 +24,8 @@ TCP client/server socket interaction:
 ![[Pasted image 20231024001136.png]]
 
 - ServerSocket(int port) - used to listen for connections on a specified port number
-- accept() - used to liste
+- accept() - waits for a connection from the client and then returns the Socket object
+- Socket(string host, int port) - creates a socket that connects to the server on the specified host and port number
+
+[[Transmission Control Protocol Java Client Server example]]
+
