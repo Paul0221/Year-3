@@ -23,12 +23,28 @@
             "id": "fc8514e325d265b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Final Year Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8af5aa2e461764f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Systems/Architectures/Centralised Organisations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Distributed Systems/Architectures/Centralised Organisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Distributed Systems/Architectures/Centralised Organisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Distributed Systems/Architectures/Centralised Organisations.md"
+              }
             }
           }
         ]
@@ -151,8 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc8514e325d265b9",
+  "active": "8af5aa2e461764f3",
   "lastOpenFiles": [
+    "Distributed Systems/Architectures/System Architectures.md",
+    "Related Modules From Year 1 & 2/Networks.md",
+    "Related Modules From Year 1 & 2.md",
+    "Related Modules From Year 1 & 2",
+    "Distributed Systems/Architectures/Layered Architectures.md",
+    "Final Year Modules.md",
     "Secure Computing/Secure Computing.md",
     "Distributed Systems/Distributed Systems.md",
     "To Do list.md",
@@ -175,16 +201,10 @@
     "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Cluster Computing.md",
     "Distributed Systems/Architectures/Object-Based Style.md",
-    "Distributed Systems/Architectures/Layered Architectures.md",
     "Distributed Systems/Architectures/Event-Based Architectures.md",
     "Distributed Systems/Communication/Marshalling and Unmarshalling.md",
-    "Distributed Systems/Architectures/System Architectures.md",
     "Distributed Systems/Architectures/Hybrid Organisations.md",
     "Distributed Systems/Architectures/Decentralised Organisations.md",
-    "Distributed Systems/Architectures/Centralised Organisations.md",
-    "Distributed Systems/Architectures/N-Tier Architecture.md",
-    "Distributed Systems/Architectures/3-Tiered Architecture.md",
-    "Distributed Systems/Architectures/2-Tiered Architecture.md",
     "Distributed Systems/Architectures",
     "Distributed Systems/Communication",
     "Resources/Pasted image 20231023151834.png",
