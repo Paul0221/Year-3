@@ -59,7 +59,19 @@ class UDPServer{
 			
 			serverSocket.receive(receivePacket); /*Server receives the datagram*/
 			
-			String sente
+			String sentence = new String(receivePacket.getData()); 
+			
+			InetAddress IPAddress = receivePacket.getAddress(); /*Get IP address of the sender (client)*/
+			
+			int port = receivePacket.getPorr(); /*Get port number of the sender (client)*/
+			
+			String capitalisedSentence = sentence.toUpperCase();
+			
+			sendData = capitalisedSentence.getBytes();
+			
+			DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, IPAddress, port); /*Create datagram to send to the client*/
+			
+			serverSocket.send(sendPacket); /*Writes output datagram to the socket*/
 		}
 	}
 }
