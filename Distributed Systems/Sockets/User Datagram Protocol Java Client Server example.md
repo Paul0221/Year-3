@@ -71,8 +71,8 @@ class UDPServer{
 			
 			DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, IPAddress, port); /*Create datagram to send to the client*/
 			
-			serverSocket.send(sendPacket); /*Writes output datagram to the socket*/
-		}
+			serverSocket.send(sendPacket); /*Writes output datagram to the client's socket*/
+		} /*End of while loop loops back and waits for another datagram*/
 	}
 }
 ```

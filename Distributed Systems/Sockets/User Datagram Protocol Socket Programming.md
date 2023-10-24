@@ -10,6 +10,8 @@ UDP client/server socket interaction:
 
 ![[Pasted image 20231024010331.png]]
 
+- DatagramSocket(int port) - sends or receives a datagram from the local port on which it listens or sends
+
 Client app example:
 
 ![[Pasted image 20231024010549.png]]
