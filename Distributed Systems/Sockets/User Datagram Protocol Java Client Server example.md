@@ -47,7 +47,20 @@ import java.net.*
 class UDPServer{
 	public static void main(String args[]) throws Exception
 	{
-		DatagramSocket serverSocket
+		DatagramSocket serverSocket = new DatagramSocket(9876); /*Creates datagram socket at port 9876*/
+		
+		byte[] receiveData = new byte[1024];
+		byte[] sendData = new byte[1024];
+		
+		while(true)
+		{
+			
+			DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length); /*Create space for received datagram*/
+			
+			serverSocket.receive(receivePacket); /*Server receives the datagram*/
+			
+			String sente
+		}
 	}
 }
 ```
