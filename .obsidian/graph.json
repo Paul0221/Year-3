@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 8778866
       }
+    },
+    {
+      "query": "file:\"Final Year Modules\"",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "file:\"Related Modules From Year 1 & 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
     }
   ],
   "collapse-display": true,

@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27e278957756d31a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,10 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8af5aa2e461764f3",
+  "active": "27e278957756d31a",
   "lastOpenFiles": [
-    "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
+    "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+    "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
     "Distributed Systems/Sockets/Sockets.md",
     "Distributed Systems/Sockets/Transmission Control Protocol Socket Programming.md",
     "Distributed Systems/Sockets/Transmission Control Protocol Java Client Server example.md",
@@ -185,7 +190,6 @@
     "Resources/Pasted image 20231024000444.png",
     "Resources/Pasted image 20231023235656.png",
     "Related Modules From Year 1 & 2/Networks/5-Layer Transmission Control Protocol Internet Protocol.md",
-    "Distributed Systems/Distributed Systems.md",
     "Related Modules From Year 1 & 2/Networks/Networks.md",
     "Distributed Systems/Sockets",
     "Layered Network Models.md",
