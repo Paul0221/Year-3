@@ -12,7 +12,7 @@ Stages of Transmission Control Protocol Socket programming:
 
 Client-server app example:
 
-![[Pasted image 20231024000444.png]] 
+![[Pasted image 20231024010644.png]]
 
 1) Client reads the line from the client's standard input stream (inFromUser) and sends it to the server via output stream (outToServer)
 2) The server reads the line from the socket

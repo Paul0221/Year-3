@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+                "file": "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+                "file": "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+                "file": "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md"
+                "file": "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md"
               }
             }
           }
@@ -171,13 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8af5aa2e461764f3",
+  "active": "7321f6f9ff85bbec",
   "lastOpenFiles": [
+    "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+    "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
+    "Distributed Systems/Sockets/Transmission Control Protocol Java Client Server example.md",
     "Distributed Systems/Sockets/Sockets.md",
     "Distributed Systems/Sockets/Transmission Control Protocol Socket Programming.md",
-    "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+    "Resources/Pasted image 20231024010644.png",
+    "Resources/Pasted image 20231024010549.png",
     "Resources/Pasted image 20231024010331.png",
-    "Distributed Systems/Sockets/Transmission Control Protocol Java Client Server example.md",
     "Resources/Pasted image 20231024001136.png",
     "Resources/Pasted image 20231024000444.png",
     "Resources/Pasted image 20231023235656.png",
@@ -210,8 +213,6 @@
     "Individual Project.md",
     "Resources/Pasted image 20231023230904.png",
     "Resources/Pasted image 20231023230728.png",
-    "Resources/Pasted image 20231023230718.png",
-    "Resources/Pasted image 20231023230325.png",
     "Distributed Systems/Architectures",
     "Distributed Systems/Communication",
     "Secure Computing",

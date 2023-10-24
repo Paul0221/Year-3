@@ -10,5 +10,9 @@ UDP client/server socket interaction:
 
 ![[Pasted image 20231024010331.png]]
 
-Client-server app example:
+Client app example:
+
+![[Pasted image 20231024010549.png]]
+
+[[User Datagram Protocol Java Client Server example]]
 
