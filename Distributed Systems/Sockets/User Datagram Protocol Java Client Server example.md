@@ -21,7 +21,33 @@ class UDPClient{
 		
 		sendData = sentence.getBytes();
 		
-		DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length)
+		DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, IPAddress, 9876); /*Creates a datagram with data-to-send, length, IP address and port number*/
+		
+		clientSocket.send(sendPacket); /*Sends the datagram to the server*/
+		
+		DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
+		
+		clientSocket.receive(receivePacket); /*Reads the datagram from the server*/
+		
+		String modifiedSentence = new String(receivePacket.getData());
+		
+		System.out.println("FROM SERVER:" + modifiedSentence);
+		
+		clientSocket.close();
+	}
+}
+```
+
+Server implementation:
+
+```
+import java.io.*
+import java.net.*
+
+class UDPServer{
+	public static void main(String args[]) throws Exception
+	{
+		DatagramSocket serverSocket
 	}
 }
 ```
