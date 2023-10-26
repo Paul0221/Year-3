@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Distributed Systems/Communication/Message Passing Interface Primitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "connection",
+                "query": "message passing inter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Distributed Systems/Communication/Message Passing Interface Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md",
+                "file": "Distributed Systems/Communication/Message Passing Interface Primitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Communication/Layered Protocols.md"
+                "file": "Distributed Systems/Communication/Message Passing Interface Primitives.md"
               }
             }
           }
@@ -161,6 +162,8 @@
   },
   "active": "27e278957756d31a",
   "lastOpenFiles": [
+    "Distributed Systems/Communication/Message Passing Interface.md",
+    "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Communication/Message Oriented Communication.md",
     "Distributed Systems/Distributed Systems.md",
@@ -170,7 +173,6 @@
     "Distributed Systems/Grid Computing.md",
     "Distributed Systems/Communication/Marshalling and Unmarshalling.md",
     "Distributed Systems/Communication/Remote Procedure Call.md",
-    "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Architectures/Hybrid Organisations.md",
     "Distributed Systems/Ubiquitous Computing Systems.md",
     "Distributed Systems/Architectures/Basic Client-Server Model.md",
@@ -180,7 +182,6 @@
     "Distributed Systems/Architectures/N-Tier Architecture.md",
     "Distributed Systems/Architectures/2-Tiered Architecture.md",
     "Distributed Systems/Architectures/Resource-Based Architectures.md",
-    "Distributed Systems/Communication/Message Passing Interface.md",
     "Distributed Systems/Communication/Message Passing Interface Primitives.md",
     "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
     "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
