@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md",
+                "file": "Distributed Systems/Communication/Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resource",
+                "query": "send",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md",
+                "file": "Distributed Systems/Communication/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md",
+                "file": "Distributed Systems/Communication/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md"
+                "file": "Distributed Systems/Communication/Communication.md"
               }
             }
           }
@@ -162,6 +162,12 @@
   },
   "active": "27e278957756d31a",
   "lastOpenFiles": [
+    "Distributed Systems/Ubiquitous Computing Systems.md",
+    "Distributed Systems/Architectures/Decentralised Organisations.md",
+    "Distributed Systems/Architectures/3-Tiered Architecture.md",
+    "Distributed Systems/Architectures/N-Tier Architecture.md",
+    "Distributed Systems/Architectures/2-Tiered Architecture.md",
+    "Distributed Systems/Architectures/Resource-Based Architectures.md",
     "Distributed Systems/Communication/Message Passing Interface.md",
     "Distributed Systems/High Performance Distributed Systems.md",
     "Distributed Systems/Communication/Message Passing Interface Primitives.md",
@@ -175,7 +181,6 @@
     "Distributed Systems/Communication/Communication.md",
     "Distributed Systems/Distributed Systems.md",
     "Distributed Systems/Sockets/Sockets.md",
-    "Distributed Systems/Architectures/Resource-Based Architectures.md",
     "Distributed Systems/Architectures/Object-Based Style.md",
     "Distributed Systems/Architectures/Layered Architectures.md",
     "Distributed Systems/Architectures/Event-Based Architectures.md",
@@ -183,11 +188,6 @@
     "Distributed Systems/Distributed Systems for Pervasive Computing.md",
     "Distributed Systems/Sensor Networks.md",
     "Distributed Systems/Mobile Computing Systems.md",
-    "Distributed Systems/Ubiquitous Computing Systems.md",
-    "Distributed Systems/Distributed Information Systems.md",
-    "Distributed Systems/Transparency.md",
-    "Distributed Systems/Middleware.md",
-    "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
     "Resources/Pasted image 20231024010644.png",
     "Resources/Pasted image 20231024010549.png",
     "Resources/Pasted image 20231024010331.png",
