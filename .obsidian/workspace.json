@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Distributed Information Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Distributed Information Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md",
+                "file": "Distributed Systems/Distributed Information Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Distributed Systems.md"
+                "file": "Distributed Systems/Distributed Information Systems.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "27e278957756d31a",
   "lastOpenFiles": [
-    "Distributed Systems/Transparency.md",
     "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Transparency.md",
     "Distributed Systems/Middleware.md",
     "Distributed Systems/Distributed Information Systems.md",
     "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
