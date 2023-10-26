@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01ff07bfdb35c4eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distributed Systems/Communication/Advanced Message Queueing Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc8514e325d265b9",
             "type": "leaf",
             "state": {
@@ -32,27 +20,19 @@
             }
           },
           {
-            "id": "8af5aa2e461764f3",
+            "id": "27e278957756d31a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
+                "file": "Distributed Systems/Transparency.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "27e278957756d31a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Distributed Systems/Transparency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Distributed Systems/Transparency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Distributed Systems/Transparency.md"
+              }
             }
           }
         ]
@@ -178,6 +162,7 @@
   "active": "27e278957756d31a",
   "lastOpenFiles": [
     "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Middleware.md",
     "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
     "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
     "Distributed Systems/Sockets/Sockets.md",
@@ -214,7 +199,6 @@
     "Secure Computing/Secure Computing.md",
     "To Do list.md",
     "Distributed Systems/Communication/Advanced Message Queueing Protocol.md",
-    "Individual Project.md",
     "Resources/Pasted image 20231023230904.png",
     "Resources/Pasted image 20231023230728.png",
     "Distributed Systems/Architectures",
