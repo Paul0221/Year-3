@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md",
+                "file": "Distributed Systems/Communication/Layered Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Architectures/Resource-Based Architectures.md"
+                "file": "Distributed Systems/Communication/Layered Protocols.md"
               }
             }
           }
@@ -161,7 +161,11 @@
   },
   "active": "27e278957756d31a",
   "lastOpenFiles": [
+    "Distributed Systems/Communication/Communication.md",
+    "Distributed Systems/Communication/Layered Protocols.md",
     "Distributed Systems/Distributed Systems.md",
+    "Distributed Systems/Sockets/Sockets.md",
+    "Distributed Systems/Architectures/Resource-Based Architectures.md",
     "Distributed Systems/Architectures/Object-Based Style.md",
     "Distributed Systems/Architectures/Layered Architectures.md",
     "Distributed Systems/Architectures/Event-Based Architectures.md",
@@ -176,7 +180,6 @@
     "Distributed Systems/Middleware.md",
     "Distributed Systems/Sockets/User Datagram Protocol Socket Programming.md",
     "Distributed Systems/Sockets/User Datagram Protocol Java Client Server example.md",
-    "Distributed Systems/Sockets/Sockets.md",
     "Distributed Systems/Sockets/Transmission Control Protocol Socket Programming.md",
     "Distributed Systems/Sockets/Transmission Control Protocol Java Client Server example.md",
     "Resources/Pasted image 20231024010644.png",
@@ -195,9 +198,6 @@
     "Resources/Pasted image 20231023233958.png",
     "5-Layer Transmission Control Protocol",
     "Resources/Pasted image 20231023233100.png",
-    "Distributed Systems/Communication/Layered Protocols.md",
-    "Distributed Systems/Architectures/Centralised Organisations.md",
-    "Distributed Systems/Architectures/Hybrid Organisations.md",
     "Related Modules From Year 1 & 2",
     "Resources/Pasted image 20231023230904.png",
     "Resources/Pasted image 20231023230728.png",
