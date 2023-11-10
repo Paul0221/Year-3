@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [x] [[Individual Project]] Coursework - Project Outline and Specification Report @{2023-11-17} @@{10:00}
 - [ ] [[User Adaptive Intelligent Systems]] Coursework - Recommender System Prototype Report @{2023-11-23} @@{10:00}
 - [x] [[Distributed Systems]] Coursework 2 @{2023-11-24} @@{10:00}
+- [x] [[Information Visualization]] Coursework 1 - Design Case Study @{2023-11-28} @@{10:00}
 
 
 ## Worksheets
