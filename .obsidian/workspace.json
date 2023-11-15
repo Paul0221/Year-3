@@ -11,13 +11,28 @@
             "id": "fc8514e325d265b9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do list.md"
+                "file": "Individual Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdf8f639e50b7e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individual Project Timeline.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do list.md",
+                "file": "Individual Project Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do list.md",
+                "file": "Individual Project Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do list.md"
+                "file": "Individual Project Timeline.md"
               }
             }
           }
@@ -144,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc8514e325d265b9",
+  "active": "bdf8f639e50b7e08",
   "lastOpenFiles": [
-    "Final Year Modules.md",
+    "Individual Project.md",
+    "Individual Project Timeline.md",
     "To Do list.md",
+    "Final Year Modules.md",
     "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
     "Distributed Systems/Communication/Advanced Message Queueing Protocol.md",
     "Distributed Systems/Sensor Networks.md",
@@ -170,8 +187,6 @@
     "Distributed Systems/Architectures/Basic Client-Server Model.md",
     "Distributed Systems/Architectures/Centralised Organisations.md",
     "Distributed Systems/Architectures/Decentralised Organisations.md",
-    "Distributed Systems/Architectures/3-Tiered Architecture.md",
-    "Distributed Systems/Architectures/N-Tier Architecture.md",
     "Resources/Pasted image 20231024010644.png",
     "Resources/Pasted image 20231024010549.png",
     "Resources/Pasted image 20231024010331.png",
