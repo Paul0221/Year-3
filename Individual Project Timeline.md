@@ -8,10 +8,10 @@ gantt
 	dateFormat DD-MM-YYYY
 	
 	section Analysis & Design
-	Contact Marc De Kamps for test data:active des1, 29-11-2023, 14d
+	Contact Get test data:active ade1, 17-11-2023, 12d
 	
 	section Implementation
-	Sprint 1: des
+	Sprint 1: imp1, 29-01-2024, 90d
 
 ```
 
