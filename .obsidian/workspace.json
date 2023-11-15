@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "26b95a0b3cc0b374",
+            "id": "9cfec3598bcb9d13",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +170,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "26b95a0b3cc0b374",
+  "active": "bdf8f639e50b7e08",
   "lastOpenFiles": [
-    "Layered Network Models.md",
     "Individual Project Timeline.md",
     "Individual Project.md",
+    "Layered Network Models.md",
     "To Do list.md",
     "Final Year Modules.md",
     "Distributed Systems/Communication/Message Oriented Persistent Communication with Message-Queuing Model.md",
