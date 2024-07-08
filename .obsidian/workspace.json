@@ -11,11 +11,9 @@
             "id": "fc8514e325d265b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Individual Project.md",
-                "mode": "source",
-                "source": false
+                "file": "To Do list.md"
               }
             }
           },
@@ -31,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "627d84efb7a3ff1a",
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Project Timeline.md",
+                "file": "To Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Project Timeline.md",
+                "file": "To Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Project Timeline.md"
+                "file": "To Do list.md"
               }
             }
           },
@@ -170,10 +166,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bdf8f639e50b7e08",
+  "active": "fc8514e325d265b9",
   "lastOpenFiles": [
-    "Individual Project Timeline.md",
     "Individual Project.md",
+    "Individual Project Timeline.md",
     "Layered Network Models.md",
     "To Do list.md",
     "Final Year Modules.md",
